@@ -1,7 +1,7 @@
 #CMS MaeloStore V.1.5.0
 ------------------------------------------------------------------
 
-CMS for Web publishing and product catalog. Base on CMS Lokomedia
+CMS for Web publishing and product catalog.
 
 * Minimal Persyaratan Sistem :
   + Apache 1.3.33
